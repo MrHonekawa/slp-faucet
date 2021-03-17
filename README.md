@@ -1,6 +1,6 @@
 # SLP Faucet Example
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/simpleledger/slp-faucet)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrhonekawa/slp-faucet)
 
 This project is an example of an SLP faucet website.  Users can enter their SLP address and the server will send the token quantity specified within the environment variables (i.e., per `TOKENQTY` and `TOKENID`) to the user's address.
 
